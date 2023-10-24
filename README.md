@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-- 🌱 I’m currently learning **JavaScript and DSA**
+- 🌱 I'm a **Frontend Developer**
+   
+- ⚡ I’m currently learning **JavaScript and DSA**
 
 - 💬 Ask me about **Frontend**
 
