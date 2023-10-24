@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/loosekeys-animation-animated-26u4cqVR8dsmedTJ6">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 - 🌱 I’m currently learning **JavaScript and DSA**
 
